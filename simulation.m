@@ -1,3 +1,11 @@
+% Source codes of 
+% Wu, J. (2020) Unified Attitude Determination Problem from Vector 
+%               Observations and Hand-eye Measurements, 
+%               IEEE Transactions on Aerospace and Electronic Systems.
+%
+% Author: Jin Wu
+% E-mail: jin_wu_uestc@hotmail.com
+
 clear all
 close all
 clc
