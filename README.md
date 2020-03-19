@@ -1,5 +1,7 @@
 # vec_hand_eye_att
 Unified Attitude Determination from Vector Observations and Hand-eye Measurements, Proposed by Jin Wu.
+![](https://github.com/zarathustr/vec_hand_eye_att/blob/master/chart3.png)
+![](https://github.com/zarathustr/vec_hand_eye_att/blob/master/brisk.png)
 ![](https://github.com/zarathustr/vec_hand_eye_att/blob/master/matched_vase.png)
 
 # Usage
